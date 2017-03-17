@@ -3,7 +3,7 @@
  *      koneksi.php
  *      Melakukan koneksi ke database
  */
-$user = "azure";
+$user = "root";
 $host = "localhost";
 $pass = "6#vWHD_$";
 $db = "simdes";
